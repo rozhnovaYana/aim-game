@@ -18,8 +18,13 @@ a {
   text-decoration: none;
 }
 
+
 a:hover {
   color: #16D9E3;
+}
+.reload{
+  cursor: pointer;
+  font-size: 40px;
 }
 
 .start {
